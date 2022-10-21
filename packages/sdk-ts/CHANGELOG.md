@@ -3,6 +3,82 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.180](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.179...@injectivelabs/sdk-ts@1.0.180) (2022-10-20)
+
+
+### Features
+
+* msgMultiExecute ([c53cb78](https://github.com/InjectiveLabs/injective-ts/commit/c53cb78ec5a4df95b376eb1a4db173e9f5336280))
+
+
+
+
+
+## [1.0.179](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.178...@injectivelabs/sdk-ts@1.0.179) (2022-10-20)
+
+
+### Features
+
+* commented msgReclaimLockedFunds ([316af92](https://github.com/InjectiveLabs/injective-ts/commit/316af9266cc84e57a8b0b1c48d5a1e3149b36486))
+
+
+
+
+
+## [1.0.178](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.177...@injectivelabs/sdk-ts@1.0.178) (2022-10-20)
+
+
+### Bug Fixes
+
+* sdk-ts docs ([cc4bf85](https://github.com/InjectiveLabs/injective-ts/commit/cc4bf85c33389e313b7263f11091012f7f6e91ee))
+
+
+### Features
+
+* msgReclaimLockedFunds ([b6b7ce8](https://github.com/InjectiveLabs/injective-ts/commit/b6b7ce8d4c7e644623068e2f5afaedb12f102a33))
+
+
+
+
+
+## [1.0.177](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.176...@injectivelabs/sdk-ts@1.0.177) (2022-10-19)
+
+
+### Bug Fixes
+
+* export MsgTransferAndExecute ([2c0e7dc](https://github.com/InjectiveLabs/injective-ts/commit/2c0e7dc1be7ff8a00cb27b890e84ee58a7552033))
+
+
+
+
+
+## [1.0.176](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.175...@injectivelabs/sdk-ts@1.0.176) (2022-10-19)
+
+**Note:** Version bump only for package @injectivelabs/sdk-ts
+
+
+
+
+
+## [1.0.175](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.174...@injectivelabs/sdk-ts@1.0.175) (2022-10-19)
+
+**Note:** Version bump only for package @injectivelabs/sdk-ts
+
+
+
+
+
+## [1.0.174](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.173...@injectivelabs/sdk-ts@1.0.174) (2022-10-19)
+
+
+### Features
+
+* msgTransferAndExecute support ([4a2c286](https://github.com/InjectiveLabs/injective-ts/commit/4a2c286b1e964b9f97fe7be0439208fe376d7d17))
+
+
+
+
+
 ## [1.0.173](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/sdk-ts@1.0.172...@injectivelabs/sdk-ts@1.0.173) (2022-10-12)
 
 **Note:** Version bump only for package @injectivelabs/sdk-ts

@@ -3,6 +3,88 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.149](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.148...@injectivelabs/wallet-ts@1.0.149) (2022-10-20)
+
+
+### Features
+
+* msgMultiExecute ([c53cb78](https://github.com/InjectiveLabs/injective-ts/commit/c53cb78ec5a4df95b376eb1a4db173e9f5336280))
+
+
+
+
+
+## [1.0.148](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.147...@injectivelabs/wallet-ts@1.0.148) (2022-10-20)
+
+
+### Features
+
+* commented msgReclaimLockedFunds ([cbcf334](https://github.com/InjectiveLabs/injective-ts/commit/cbcf334baf588754e3332ae4e16dbb792df140d2))
+
+
+
+
+
+## [1.0.147](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.146...@injectivelabs/wallet-ts@1.0.147) (2022-10-20)
+
+
+### Features
+
+* msgReclaimLockedFunds ([b6b7ce8](https://github.com/InjectiveLabs/injective-ts/commit/b6b7ce8d4c7e644623068e2f5afaedb12f102a33))
+
+
+
+
+
+## [1.0.146](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.145...@injectivelabs/wallet-ts@1.0.146) (2022-10-19)
+
+**Note:** Version bump only for package @injectivelabs/wallet-ts
+
+
+
+
+
+## [1.0.145](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.144...@injectivelabs/wallet-ts@1.0.145) (2022-10-19)
+
+
+### Bug Fixes
+
+* endpoints ([896de2c](https://github.com/InjectiveLabs/injective-ts/commit/896de2c12ee1e57c81a6549a5590c08e797d8ba9))
+
+
+
+
+
+## [1.0.144](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.143...@injectivelabs/wallet-ts@1.0.144) (2022-10-19)
+
+**Note:** Version bump only for package @injectivelabs/wallet-ts
+
+
+
+
+
+## [1.0.143](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.142...@injectivelabs/wallet-ts@1.0.143) (2022-10-19)
+
+
+### Bug Fixes
+
+* revert endpoints ([88e67ad](https://github.com/InjectiveLabs/injective-ts/commit/88e67adaba01b74361b799127899f136e6ae42e9))
+
+
+
+
+
+## [1.0.142](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.141...@injectivelabs/wallet-ts@1.0.142) (2022-10-19)
+
+
+### Features
+
+* msgTransferAndExecute support ([4a2c286](https://github.com/InjectiveLabs/injective-ts/commit/4a2c286b1e964b9f97fe7be0439208fe376d7d17))
+
+
+
+
+
 ## [1.0.141](https://github.com/InjectiveLabs/injective-ts/compare/@injectivelabs/wallet-ts@1.0.140...@injectivelabs/wallet-ts@1.0.141) (2022-10-12)
 
 **Note:** Version bump only for package @injectivelabs/wallet-ts
